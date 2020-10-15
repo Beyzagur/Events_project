@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42805488-beda-45c2-9c5f-93aad76de583" name="Default Changelist" comment="" />
+    <list default="true" id="42805488-beda-45c2-9c5f-93aad76de583" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin_panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin_panel.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,16 +168,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\beyza\www\events\public\images" />
+      <recent name="C:\Users\beyza\www\deneme\public\img\slider" />
+      <recent name="C:\Users\beyza\www\deneme\public\images" />
+      <recent name="C:\Users\beyza\www\deneme\public\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\beyza\www\deneme\public" />
       <recent name="C:\Users\beyza\www\deneme\public\js" />
       <recent name="C:\Users\beyza\www\deneme\public\images" />
       <recent name="C:\Users\beyza\www\deneme\public\fonts" />
-      <recent name="C:\Users\beyza\www\deneme\public\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\beyza\www\deneme\public\img\slider" />
-      <recent name="C:\Users\beyza\www\deneme\public\images" />
       <recent name="C:\Users\beyza\www\deneme\public\css" />
     </key>
   </component>
@@ -201,7 +205,7 @@
       <workItem from="1602669628281" duration="17071000" />
       <workItem from="1602712802978" duration="1463000" />
       <workItem from="1602792393876" duration="335000" />
-      <workItem from="1602792941885" duration="1975000" />
+      <workItem from="1602792941885" duration="3985000" />
     </task>
     <servers />
   </component>
