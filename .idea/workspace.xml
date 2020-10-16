@@ -12,7 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="42805488-beda-45c2-9c5f-93aad76de583" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin_panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin_panel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/forgot-password.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/forgot-password.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +206,8 @@
       <workItem from="1602669628281" duration="17071000" />
       <workItem from="1602712802978" duration="1463000" />
       <workItem from="1602792393876" duration="335000" />
-      <workItem from="1602792941885" duration="3985000" />
+      <workItem from="1602792941885" duration="4790000" />
+      <workItem from="1602875379072" duration="1329000" />
     </task>
     <servers />
   </component>
@@ -222,6 +224,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="946" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602275956464">
